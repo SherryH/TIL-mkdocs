@@ -1,7 +1,0 @@
-## Observation
-
-## Reflection
-
-## Interpretational
-
-## Decisional
