@@ -1,4 +1,4 @@
-# What heuristics for requirements?
+## What heuristics for requirements?
 - To provide clear guidance across various features for customers to easily complete a use case, such as setting up a campaign.
 - When designers and PMs present ideas, what are the common areas that we should clarify and consider?
 
