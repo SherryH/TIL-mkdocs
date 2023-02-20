@@ -22,4 +22,7 @@ https://smartlyio.atlassian.net/browse/DUPLO-1959
 }
 ```
 - Q: What is implementing drawer against interface?
+
+- => If user abandoned the journey, the state is lost
+- => 
 ### Q: What is the concept / idea behind the creation of the Drawer component?
